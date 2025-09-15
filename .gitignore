@@ -201,3 +201,5 @@ uv.lock
 
 # SQLite
 *.db.wal
+
+support-materials/
